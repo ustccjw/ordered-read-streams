@@ -1,5 +1,6 @@
    function a(){}
-   function b(){}
+   
+ function b(){}
 
 
     var a=10;
