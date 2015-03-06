@@ -1,3 +1,3 @@
    function a(){}
 
-    hah
+ function b(){}
